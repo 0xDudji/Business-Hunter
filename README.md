@@ -19,14 +19,16 @@ Business Hunter leverages the Google Maps API to search for and report detailed 
 **Installation**
 
 1. Clone or download the repository
+
 ![image](https://github.com/skemil/Business-Hunter/assets/71653103/fa6de32e-e56b-4f41-aa80-053084b98784)
 
 
-2. Navigate to the program's directory
+3. Navigate to the program's directory
+
 ![image](https://github.com/skemil/Business-Hunter/assets/71653103/88599a69-c67c-47f3-9b1c-5bf1f849b086)
 
 
-3. Install dependencies
+4. Install dependencies
 Before running Business Hunter, you need to install the necessary Python packages.
 
 ![image](https://github.com/skemil/Business-Hunter/assets/71653103/dcfe40ba-96d7-4a78-b971-273e509a5022)
@@ -37,6 +39,7 @@ This command will install all the required packages, including PyQt5, pandas, nu
 **Configuration**
 
 Before using Business Hunter, you must obtain a Google Maps API key and configure the application to use this key. Insert your API key into the **API_KEY** variable within the script:
+
 ![image](https://github.com/skemil/Business-Hunter/assets/71653103/2a56317a-e219-4a0c-9370-ef6cb746145f)
 
 
@@ -47,6 +50,7 @@ Ensure that your Google Maps API key has access to the Places API, as this is cr
 1. Launch the Application
 
 Run the application with Python:
+
 ![image](https://github.com/skemil/Business-Hunter/assets/71653103/9e6a1b0b-973d-4209-b2dd-afa08c51421c)
 
 2. Set Search Parameters
