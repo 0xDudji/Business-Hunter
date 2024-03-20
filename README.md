@@ -4,6 +4,12 @@
 
 Business Hunter leverages the Google Maps API to search for and report detailed information about businesses based on user-defined criteria. The output is an Excel file that includes the business name, place ID, rating, category, total ratings, address, whether it is permanently closed, phone number, Google Maps URL, last review timestamp, and the text of the last review. This tool is designed to assist in market research, competitor analysis, and general interest searches.
 
+![image](https://github.com/skemil/Business-Hunter/assets/71653103/07e826f2-22df-43de-8e8b-c2323ff803a2)
+
+
+![Business Hunter](https://github.com/skemil/Business-Hunter/assets/71653103/db4ffd23-cb25-4d4e-860b-4c08b08cddbc)
+
+
 **Features**
 
 * Customizable search parameters including location, keywords, and search radius
